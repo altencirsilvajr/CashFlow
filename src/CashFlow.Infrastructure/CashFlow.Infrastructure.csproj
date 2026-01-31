@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <Folder Include="DataAccess/" />
+    <Folder Include="DataAccess/Repositories/" />
   </ItemGroup>
 
 </Project>
